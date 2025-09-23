@@ -1,0 +1,22 @@
+[[plugin.deps]]
+use = "yazi-rs/plugins:git"
+rev = "b12a9ab"
+hash = "394cc54375e5638237043d23ad34d478"
+
+[[plugin.deps]]
+use = "dedukun/relative-motions"
+rev = "61ae795"
+hash = "ab343e321fc9d30c035ec58ade607b8"
+
+[[plugin.deps]]
+use = "yazi-rs/plugins:full-border"
+rev = "d1c8baa"
+hash = "b16b6e08085a3dfec72335415e4c83ed"
+
+[[plugin.deps]]
+use = "boydaihungst/mediainfo"
+rev = "2093ab7"
+hash = "e7c8ba56a83543227d2fd666b766fb86"
+
+[flavor]
+deps = []
