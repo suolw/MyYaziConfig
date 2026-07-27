@@ -1,27 +1,27 @@
 [[plugin.deps]]
 use = "yazi-rs/plugins:git"
-rev = "b12a9ab"
-hash = "394cc54375e5638237043d23ad34d478"
+rev = "4c63ed3"
+hash = "b94720e0ef40cb0e97093fabd9694775"
 
 [[plugin.deps]]
 use = "dedukun/relative-motions"
-rev = "61ae795"
-hash = "ab343e321fc9d30c035ec58ade607b8"
+rev = "a603d9e"
+hash = "4841d0db6a2380a16fd8c647fc1d1187"
 
 [[plugin.deps]]
 use = "yazi-rs/plugins:full-border"
-rev = "d1c8baa"
-hash = "b16b6e08085a3dfec72335415e4c83ed"
+rev = "4c63ed3"
+hash = "1e3b6c8b03dae81c3672ec9e9700b666"
 
 [[plugin.deps]]
 use = "boydaihungst/mediainfo"
-rev = "2093ab7"
-hash = "e7c8ba56a83543227d2fd666b766fb86"
+rev = "e079a00"
+hash = "d3dfd2196e54cef090ff02f7f881f135"
 
 [[plugin.deps]]
 use = "orhnk/system-clipboard"
-rev = "4f6942d"
-hash = "aadfb1b78b364a1b03ac53cd52467834"
+rev = "75a5330"
+hash = "9ab2a0e74968f7f0e46893021764cb66"
 
 [flavor]
 deps = []
